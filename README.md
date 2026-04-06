@@ -17,7 +17,7 @@ Currently exploring backend architecture, learning how the Cloud works, and work
 - *Concepts:* APIs, Cloud Storage, Serverless Computing
 
 ### 📫 Let's Connect:
-- *LinkedIn:* [[Insert your LinkedIn URL here]](https://www.linkedin.com/in/aliyu-sarkiyo-802940300?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- *LinkedIn:* https://www.linkedin.com/in/aliyu-sarkiyo-802940300?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - *Email:* aliyusarkiyo@gmail.com
 
 "You can't design a system if you don't know how to build it." 🚀
